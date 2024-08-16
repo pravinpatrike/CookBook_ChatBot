@@ -76,7 +76,7 @@ Please enter the recipe URL: https://www.example.com/recipe-url
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## ✨ Acknowledgments
 
